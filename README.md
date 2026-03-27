@@ -1,7 +1,7 @@
 ## Hi there, I'm Yegor 👋
 
 # 💫 About Me:
-I'm a 3rd year student double majoring in Computer Science at the University of Waterloo and Business Adminstration at Wilfrid Laurier University. I am passionate about solving complex problems through code, learning about the latest advancements in technology and building products that have long lasting impact.
+I'm a 4th year student double majoring in Computer Science at the University of Waterloo and Business Adminstration at Wilfrid Laurier University. I am passionate about solving complex problems through code, learning about the latest advancements in technology and building products that have long lasting impact.
 
 # What I am working on
 💼 Solving real world problems with .NET, Springboot and Typescript
